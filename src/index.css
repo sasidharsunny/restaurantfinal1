@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue','Cookie',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1 {
+  font-family: 'Cookie', cursive !important ;
+  font-style: normal;
+  font-weight: bold;
+}
+ h2 {
+  font-family: 'Cookie', cursive !important ;
+  font-style: normal;
+  font-weight: bold;
+}
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif  ;
+}
